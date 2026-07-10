@@ -27,33 +27,35 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=f5c2e7&color=cba6f7" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=flat-square&logo=javascript&logoColor=f9e2af&color=f9e2af" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=flat-square&logo=html5&logoColor=fab387&color=fab387" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=flat-square&logo=css3&logoColor=89b4fa&color=89b4fa" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-313244?style=flat-square&logo=python&logoColor=cba6f7&labelColor=1e1e2e" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-313244?style=flat-square&logo=javascript&logoColor=f9e2af&labelColor=1e1e2e" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-313244?style=flat-square&logo=html5&logoColor=fab387&labelColor=1e1e2e" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-313244?style=flat-square&logo=css3&logoColor=89b4fa&labelColor=1e1e2e" alt="CSS3" />
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-1e1e2e?style=flat-square&logo=git&logoColor=f38ba8&color=f38ba8" alt="Git" />
-  <img src="https://img.shields.io/badge/Obsidian-1e1e2e?style=flat-square&logo=obsidian&logoColor=a6e3a1&color=a6e3a1" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/VS%20Code-1e1e2e?style=flat-square&logo=visual-studio-code&logoColor=89b4fa&color=89b4fa" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-313244?style=flat-square&logo=git&logoColor=f38ba8&labelColor=1e1e2e" alt="Git" />
+  <img src="https://img.shields.io/badge/Obsidian-313244?style=flat-square&logo=obsidian&logoColor=a6e3a1&labelColor=1e1e2e" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/VS%20Code-313244?style=flat-square&logo=visual-studio-code&logoColor=89b4fa&labelColor=1e1e2e" alt="VS Code" />
 </div>
 
 ---
 
-### 📊 GitHub Sanctuary Statistics
+### ✉️ A Celestial Transmission
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sto3IV&show_icons=true&title_color=cba6f7&icon_color=f5c2e7&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Sto3IV's GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sto3IV&layout=compact&title_color=cba6f7&text_color=cdd6f4&bg_color=1e1e2e&hide_border=true" alt="Sto3IV's Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+```text
+     .--------------------------------.
+    /  \                              / \
+   /    \                            /   \
+  /      \     . * . * . * .        /     \
+ /        \________________________/       \
+|                                           |
+|       01110111  01110010  01101001        |
+|       01110100  01100101  00100000        |
+|       01101101  01100101                  |
+|                                           |
+ \                                         /
+  \_______________________________________/
+```
 
 <br/>
 
@@ -61,6 +63,7 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
 
 <div align="center">
   <a href="https://x.com/Sto3IV" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-313244?style=flat-square&logo=twitter&logoColor=89b4fa&labelColor=1e1e2e" alt="Twitter" />
   </a>
 </div>
+
