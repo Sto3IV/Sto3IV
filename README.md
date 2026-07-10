@@ -16,9 +16,8 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
 
 - **Aesthetics & Atmosphere**: Designing cozy, atmospheric spaces, compiling midnight playlists, and crafting dark-themed interface designs.
 - **Obsidian & Customization**: Creator of the [Frozen Kingdom](https://github.com/Sto3IV/obsidian-fancy-a-story-frozen) theme. I love organizing information using semantic vaults.
-- **AI & Language Models**: Experimenting with local LLM samplers, SillyTavern configurations, and engineering precise behavioral prompts.
 - **Japanese Studies**: Learning the Japanese language (currently study of Hiragana, Katakana, and Genki) and immersing myself in its clean, structured aesthetics.
-- **Gaming & Interactive Media**: Writing detailed, immersive walkthroughs (such as the [Medusa Quests](https://github.com/Sto3IV/Medusa_Quests_eng) Elden Ring guide) and exploring titles like Stalker 2 and Mass Effect.
+- **Gaming & Interactive Media**: Writing detailed, immersive walkthroughs (such as the [Medusa Quests](https://github.com/Sto3IV/Medusa_Quests_eng) Elden Ring guide) and exploring titles like Baldur's Gate 3 and Nier.
 - **Audio & Sound**: Audio extraction, music editing, and creating cozy ambient soundscapes.
 
 ---
@@ -46,11 +45,11 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
   .--------------------------------------------------------.
   | +** *+.**.. *   . .    * **.   ******** ***      ***+  |
   |  * * **      * *  * *  *.   *   .*     ** ***  .* *+   |
-  |. *       +++   .   .* **  * .  ** .       *  * . .    |
+  |. *       +++   .   .* **  * .  ** .       *  * . .     |
   |.  *      *+ **. * .* * ****  *** + *  ***   +  *. *    |
-  |  .* . .+  *           *            *      .    . *    |
+  |  .* . .+  *           *            *      .    . *     |
   |  *   .++*.   ** *     * *  * *.        *  * *    *  .  |
-  |          .  +   **     *     *.   *     .       .+    |
+  |          .  +   **     *     *.   *     .       .+     |
   |________________________________________________________|
   |              |\      _,,,---,,_                        |
   |        Zzz   /,`.-'`'    -.  ;-;;,_                    |
