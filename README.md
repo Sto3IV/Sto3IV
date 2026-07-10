@@ -1,7 +1,7 @@
 # 🌌 Welcome to My Cozy Digital Garden
 
 <div align="center">
-  <img src="banner.png" alt="Sto3IV's Banner" width="100%" />
+  <img src="banner1.png" alt="Sto3IV's Banner" width="100%" />
 </div>
 
 <br/>
