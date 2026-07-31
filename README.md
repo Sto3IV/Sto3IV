@@ -61,7 +61,7 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
 
 <div align="center">
   <a href="https://x.com/Sto3IV" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-313244?style=flat-square&logo=twitter&logoColor=89b4fa&labelColor=1e1e2e" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-313244?style=flat-square&logo=X&logoColor=89b4fa&labelColor=1e1e2e" alt="Twitter" />
   </a>
 </div>
 
