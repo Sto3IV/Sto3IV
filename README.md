@@ -19,6 +19,7 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
 - **Japanese Studies**: Learning the Japanese language (currently study of Hiragana, Katakana, and Genki) and immersing myself in its clean, structured aesthetics.
 - **Gaming & Interactive Media**: Writing detailed, immersive walkthroughs (such as the [Medusa Quests](https://github.com/Sto3IV/Medusa_Quests_eng) Elden Ring guide) and exploring titles like Baldur's Gate 3 and Nier.
 - **Audio & Sound**: Audio extraction, music editing, and creating cozy ambient soundscapes.
+- **Rainmeter & Widgets**: Developer of the [Claude Code Usage Rainmeter Skin](https://github.com/Sto3IV/claude-usage-rainmeter), an illustro-styled skin for tracking AI API usage in real-time.
 
 ---
 
