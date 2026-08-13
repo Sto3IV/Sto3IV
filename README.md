@@ -33,6 +33,7 @@ I am a creator and digital explorer focused on building immersive, cozy, and hig
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-313244?style=flat-square&logo=git&logoColor=f38ba8&labelColor=1e1e2e" alt="Git" />
   <img src="https://img.shields.io/badge/Obsidian-313244?style=flat-square&logo=obsidian&logoColor=a6e3a1&labelColor=1e1e2e" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Rainmeter-313244?style=flat-square&logo=rainmeter&logoColor=89b4fa&labelColor=1e1e2e" alt="Rainmeter" />
 </div>
 
 ---
